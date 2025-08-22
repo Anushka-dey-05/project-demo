@@ -1,2 +1,2 @@
 # project-demo
-this is a demo of git &amp; github practice.hey here is anushka builder.he he wher eup to you.
+this is a demo of git &amp; github practice.hey here is anushka builder.he he where up to you.i know you can made it clearly....
